@@ -4,3 +4,4 @@
 la extensión Live Server y luego alojar el directorio que contiene el proyecto en nuestro editor de código. Una vez hayamos realizado estos pasos, tenemos 
 que dar clic derecho en index.html e iniciar con Live Server 
 3. Este proyecto esta realizado con html, css y javascript con la finalidad de presentarse en la entrevista programada para la empresa AvatarGlobal
+4. El proyecto tambien se encuentra alojado en heroku: https://starwarsalvarodev.herokuapp.com/
